@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="website.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>website</title>
+</head>
+<body>
+    <div class="background"></div>
+    <header>
+        <nav class="navbar">
+                <a href="website.html" class="active a" id="home">HOME</a>
+                <a href="about.html" class="a" id="about">ABOUT</a>
+                <a href="skills.html" class="a" id="skills">SKILLS</a>
+                <a href="projects.html" class="a" id="projects">PROJECTS</a>
+        </nav>
+    </header>
+    <main>
+        <div class="glass"></div>
+       <h1 class="name"><span class="hello">Hello,</span><br/><span class="im">I'm Gunda Venkata Sai,</span><br/><span class="full">Full-Stack Web Developer</span></h1>
+    <div class="container">
+        <a href="https://www.facebook.com/venkynani007?mibextid=ZbWKwL" class="facebook"><img class="icons" src="images/facebook.png"  width="35px" height="35px";/></a>
+        <a href="https://www.instagram.com/_thevenky_/#" class="instagram"><img class="icons" src="images/instagram.png" width="35px" height="35px"/></a>
+        <a href="https://x.com/venky_nani777?s=09" class="twitter"><img class="icons"src="images/twitter-sign.png" width="35px" height="35px"/></a>
+        <a href="https://www.linkedin.com/in/venkata-sai-gunda-335287227/" class="linkedin"><img class="icons"src="images/linkedin.png" width="35px" height="35px"/></a>
+    </div>
+</main>
+</body>
+</html>
